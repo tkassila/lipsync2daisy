@@ -1,0 +1,6 @@
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+
+<public publicId="-//NISO//DTD dtbook 2005-3//EN"
+        uri="dtbook-2005-3.dtd"/>
+
+</catalog>

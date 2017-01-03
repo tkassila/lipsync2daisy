@@ -1,0 +1,13 @@
+#Käyttäjäkohtaiset asetukset / Lipsync2Smil v. 0.9953 (c) Celia & Tuomas Kassila (2015)
+#
+#Sat May 09 17:02:34 EEST 2015
+readdir3=C\:\\java\\project\\celia\\smil2voicesmil\\20130825\\Lipsync_export
+calculatemp3filelength=false
+templatedir3=C\:\\java\\project\\celia\\smil2voicesmil\\config\\daisy3templates
+userlocale=fi_FI
+fTimeshiftintovoicedatas=0.0
+executetype=3
+cfgpath3=C\:\\java\\project\\celia\\smil2voicesmil\\config
+outputdir3=C\:\\java\\project\\celia\\smil2voicesmil\\20130825\\tulos
+cfgfile3=lipsyn2smil3.cfg
+uilanguage=Finland

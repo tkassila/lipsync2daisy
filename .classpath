@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/java/project/celia/smil2voicesmil/lib/commons-lang3-3.1.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_SUPPORT"/>
+	<classpathentry kind="lib" path="C:/java/project/celia/smil2voicesmil/lib/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/java/project/celia/smil2voicesmil/lib/jl1.0.1.jar"/>
+	<classpathentry exported="true" kind="con" path="GROOVY_DSL_SUPPORT"/>
+	<classpathentry kind="lib" path="C:/java/os/mp3spi1.9.5/MpegAudioSPI1.9.5/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/java/os/mp3spi1.9.5/MpegAudioSPI1.9.5/lib/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="lib/jaudiotagger-2.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/resolver.jar"/>
+	<classpathentry kind="lib" path="lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jna-3.0.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
